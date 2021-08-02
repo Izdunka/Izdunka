@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Izdunka
+- 👀 I’m interested in learning.
+- 🌱 I’m currently learning python and C#
+- 💞️ I’m looking to collaborate on different projects.
+- 📫 How to reach me - via email.
